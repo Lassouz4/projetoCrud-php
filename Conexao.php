@@ -1,4 +1,7 @@
 <?php
+	/*@uthor EmersonOlvr
+	 * https://github.com/EmersonOlvr/sistema-login-php
+	 */
 	/*
 	 * Use este script para definir o domínio, o nome do seu site, configurar a conexão com o banco de dados e
 	 * as configurações do envio de e-mail
